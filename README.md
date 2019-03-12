@@ -4,7 +4,7 @@ Animals and their owners
 ### Install ###
 1 - ```composer install```
 
-2 - Rename .env-example file to .env
+2 - Rename the .env.example file to .env
 
 3 - ```php artisan key:generate```
 
