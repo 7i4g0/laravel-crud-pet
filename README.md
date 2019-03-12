@@ -1,7 +1,7 @@
 # laravel-crud-pet
 Animals and their owners
 
-###Install###
+### Install ###
 1 - ```composer install```
 
 2 - Rename .env-example file to .env
